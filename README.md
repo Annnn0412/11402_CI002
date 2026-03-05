@@ -17,3 +17,4 @@ I am a sophomore student majoring in Computer Science and Engineering at Yuan Ze
 
 ## Repository description
 This is the living document to record what I learned from this course.
+Files will organized by assignment folders.

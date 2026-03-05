@@ -13,8 +13,9 @@
 
 **Student ID:** 1133315
 
-I am a sophomore student majoring in Computer Science and Engineering at Yuan Ze University (YZU CSE). My current goal is to attend as many live concerts as possible.
+I am a second-year student majoring in Computer Science and Engineering at Yuan Ze University (YZU CSE). 
 
 ## Repository description
 This is the living document to record what I learned from this course.
+
 Files will organized by assignment folders.
